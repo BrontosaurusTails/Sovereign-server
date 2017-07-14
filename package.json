@@ -1,0 +1,28 @@
+{
+  "name": "sovereign-server",
+  "version": "1.0.0",
+  "description": "A Repo for backend api server database",
+  "main": "server.js",
+  "dependencies": {
+    "aws-sdk": "^2.83.0",
+    "babel-cli": "^6.24.1",
+    "express": "^4.15.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrontosaurusTails/Sovereign-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrontosaurusTails/Sovereign-server/issues"
+  },
+  "homepage": "https://github.com/BrontosaurusTails/Sovereign-server#readme"
+}
