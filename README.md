@@ -3,8 +3,10 @@ A Repo for backend api server database
 
 ### To get started
 1. Clone this repo
-2. npm install
-3. node server.js
+2. `npm install`
+3. Install MongoDB - https://treehouse.github.io/installation-guides/mac/mongo-mac.html
+4. `mongod`
+5. `node server.js`
 
 ### To contribute
 1. Create a branch off of development - git checkout -b `branch-name` origin/development
